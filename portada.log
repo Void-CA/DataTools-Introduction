@@ -1,0 +1,118 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.11.9)  9 NOV 2024 15:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./portada.tex
+(portada.tex
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-10-09>
+
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+x.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.
+sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+s.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.st
+y
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xet
+ex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhd
+r.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\Ari Castillo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
+end-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count266
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
+) (portada.aux)
+\openout1 = `portada.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+File: imagenes/portada.png Graphic file (type bmp)
+<imagenes/portada.png>
+
+
+[1
+
+] (portada.aux)
+ ***********
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-10-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1093 strings out of 408809
+ 17918 string characters out of 5747478
+ 398365 words of memory out of 5000000
+ 24023 multiletter control sequences out of 15000+600000
+ 558125 words of font info for 43 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,5n,65p,207b,188s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on portada.pdf (1 page).
